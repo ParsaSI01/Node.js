@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A simple Node.js project created while learning and practicing Node.js.",
+  "homepage": "https://github.com/ParsaSI01/Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/ParsaSI01/Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParsaSI01/Node.js.git"
+  },
+  "license": "ISC",
+  "author": "ParsaSI",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.20.0"
+  },
+  "devDependencies": {}
+}
