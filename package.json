@@ -20,10 +20,11 @@
   },
   "dependencies": {
     "axios": "^1.20.0",
+    "express": "^5.2.1",
     "mongoose": "^9.10.1",
     "nodemon": "^3.1.14"
   },
   "devDependencies": {
-    "jshint": "^2.13.6"
+    "jshint": "^0.5.9"
   }
 }
